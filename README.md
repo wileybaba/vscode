@@ -1,1 +1,1 @@
-# VS Code Setup - Legalpad
+# VS Code Setup - React + Ruby 
