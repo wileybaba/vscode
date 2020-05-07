@@ -1,0 +1,46 @@
+{
+  "editor.codeLens": true,
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.editor.limit.enabled": true,
+  "workbench.editor.limit.perEditorGroup": false,
+  "workbench.editor.limit.value": 6,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.minimap.enabled": false,
+  "zenMode.fullScreen": false,
+  "workbench.activityBar.visible": true,
+  "window.zoomLevel": -1,
+  "editor.fontSize": 16,
+  "editor.fontFamily": "FiraCode-Retina",
+  "editor.fontLigatures": true,
+  "workbench.colorCustomizations": {
+    "editorCursor.foreground": "#16c36a"
+  },
+  "[html]": {
+    "editor.suggest.insertMode": "replace",
+    "editor.formatOnSave": false
+  },
+  "[javascript]": {
+    "editor.formatOnSave": false,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    }
+  },
+  "[javascriptreact]": {
+    "editor.formatOnSave": false,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    }
+  },
+  "prettier.disableLanguages": ["ruby", "javascript", "javascriptreact"],
+  "ruby.rubocop.executePath": "/Users/wileymckayconte/.rvm/gems/ruby-2.4.2/bin/",
+  "ruby.rubocop.configFilePath": "/Users/wileymckayconte/legalpad/novo/.rubocop.yml",
+  "ruby.rubocop.onSave": true,
+  "javascript.autoClosingTags": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.tabSize": 2,
+  "workbench.colorTheme": "One Dark Pro",
+  "terminal.integrated.shell.osx": "/bin/zsh"
+}
